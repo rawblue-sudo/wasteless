@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/wasteless-logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "made for you",
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/wasteless-logo-alt.png",
     "has_social": false,
     "content": "&copy; Wasteless. All rights reserved.",
     "links": [],
