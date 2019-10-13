@@ -2,7 +2,7 @@
   "title": "Wasteless",
   "palette": "blue",
   "header": {
-    "title": "Azimuth",
+    "title": "Wasteless",
     "logo_img": "/images/wasteless-logo.png",
     "has_nav": true,
     "menu": {
@@ -19,12 +19,12 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "made for you",
+    "tagline": "",
     "logo_img": "/images/wasteless-logo-alt.png",
     "has_social": false,
     "content": "&copy; Wasteless. All rights reserved.",
     "links": [],
-    "nav_title": "Wasteless",
+    "nav_title": "Stay Wasteless",
     "has_nav": true
   }
 }
