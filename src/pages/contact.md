@@ -2,8 +2,8 @@
 title: Contact
 menus:
   secondary:
-    title: Contact
-    weight: 3
+    title: ''
+    weight: ''
 template: contact
 ---
 
