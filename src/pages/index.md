@@ -79,11 +79,6 @@ sections:
     subtitle: This is an optional description for the call to action block.
     title: This Is Call To Action Block!
     type: ctablock
-  - bg: gray
-    component: PostsBlock
-    section_id: recent-posts
-    title: Latest Posts
-    type: postsblock
 menus:
   main:
     title: Home
