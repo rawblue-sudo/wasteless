@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Azimuth Theme",
+  "title": "Wasteless",
   "palette": "blue",
   "header": {
     "title": "Azimuth",
@@ -19,18 +19,12 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "made for you",
     "logo_img": "images/logo_alt.png",
-    "has_social": true,
-    "content": "&copy; Me. All rights reserved.",
-    "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ],
-    "nav_title": "Company",
+    "has_social": false,
+    "content": "&copy; Wasteless. All rights reserved.",
+    "links": [],
+    "nav_title": "Wasteless",
     "has_nav": true
   }
 }
