@@ -17,7 +17,7 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          The side-stream you're currently paying to dispose might be full of
+          The side-stream you're currently paying to dispose of might be full of
           surprises!
         image: /images/nature.svg
         title: Turning Waste into Opportunities
@@ -25,20 +25,18 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          Wasteless is here to streamline your workflow and make everything run
+          smoothly.
+        image: /images/priority.svg
+        title: Prioritise on what's truly important
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+          Making important decision with an impact on economy and ecology has
+          never been easier before.
+        image: /images/app.svg
+        title: As easy as the flick of your wrist
     section_id: features
     subtitle: Wasteless is here to close the loop!
     title: Benefits
