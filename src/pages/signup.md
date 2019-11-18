@@ -1,8 +1,6 @@
 ---
 title: Sign Up
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: To become part of the Wasteless movement
 img_path: images/11.jpg
 menus:
   secondary:
