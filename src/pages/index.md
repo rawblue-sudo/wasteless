@@ -21,7 +21,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: Turning Waste into Opportunities
       - actions:
           - label: Learn More
             url: /features
@@ -41,10 +41,8 @@ sections:
         image: images/feature3.png
         title: Cool Feature of Your Services
     section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+    subtitle: Wasteless is here to close the loop!
+    title: Benefits
     type: featuresblock
   - bg: white
     component: ReviewsBlock
