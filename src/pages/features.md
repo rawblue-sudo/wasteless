@@ -1,43 +1,40 @@
 ---
 title: Features
 sections:
-  - type: contentblock
-    section_id: features
-    title: The Best Features of Your Services
+  - actions:
+      - label: Learn about us
+        url: /about
+    bg: gray
     component: ContentBlock
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Responsible consumption is of high significance for today’s society.
+      Decoupling value creation from resource consumption is a missing step on
+      the stairway to sustainability. The added value associated with taking
+      this step – if communicated accurately – enables innovators to easily
+      outperform their non-circular competition.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
-    bg: gray
-    actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
-  - type: ctablock
-    section_id: call-to-action
-    title: This Is Call to Action Block!
-    component: CtaBlock
-    subtitle: This is an optional description for the call to action block.
-    actions:
+      The value of production side-streams is often underestimated. The right
+      downstream applications of your material create additional revenues and
+      diversified value creation for your company. Additionally, they generate
+      additional value for your customers and reduce the ecological footprint of
+      your production.
+    image: /images/all.svg
+    section_id: features
+    title: Wasteless is a good choice for you
+    type: contentblock
+  - actions:
       - label: Get Started
         url: '#'
+    component: CtaBlock
+    section_id: call-to-action
+    subtitle: 'We promise, you won''t be disappointed.'
+    title: Interested? Request a demo!
+    type: ctablock
 menus:
   main:
     title: Features
     weight: 2
 template: features
 ---
+
