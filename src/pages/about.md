@@ -1,8 +1,6 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Circular Leaders by Heart
 img_path: images/about.jpg
 menus:
   secondary:
@@ -10,7 +8,24 @@ menus:
     weight: 1
 template: page
 ---
+We are scouts for circular economy innovations and trends in all industry segments. We look at hundreds of circular innovations every day. We know who does what, where and how.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+
+We are upcycling-geeks ourselves and therefore know what works for consumers and what doesn't. Our CEO goes to pitches dressed in former waste. We are the real deal.
+
+
+
+We are also business people. We get things done. We do the necessary and leave out the rest. We take a deep-dive into possible business cases and condense them into a portfolio of concrete opportunities that can be acted and decided upon.
+
+
+
+We are also on fire for industrial production. We want scalable solutions. We calculate business cases for new supply chains, production sites and consumer products. We discuss positioning over lunch and factory layouts over coffee.
+
+
+
+We are productive. We want to create impact. We care so much about bringing innovations to life that we already start working on the implementation while we establish the business case for a project, to speed up the process.
+
+
+
+We are structured. We are strategic. We are agile. We take a straightforward approach to innovation. We are not afraid to fail and therefore able to succeed. We do
