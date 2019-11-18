@@ -25,7 +25,7 @@ sections:
     type: contentblock
   - actions:
       - label: Get Started
-        url: '#'
+        url: /signup
     component: CtaBlock
     section_id: call-to-action
     subtitle: 'We promise, you won''t be disappointed.'
