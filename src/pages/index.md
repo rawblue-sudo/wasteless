@@ -6,7 +6,7 @@ sections:
         url: /features
     component: HeroBlock
     content: Join the movement and let's make history
-    image: images/hero.png
+    image: /images/eco-conscious-woman.svg
     section_id: hero
     title: Are You ready for a Wasteless future?
     type: heroblock
