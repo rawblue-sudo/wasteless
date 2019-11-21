@@ -1,7 +1,7 @@
 ---
 title: Start your journey to become Wasteless
 subtitle: ''
-img_path: images/11.jpg
+img_path: /images/join.jpg
 menus:
   secondary:
     title: Sign Up
