@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Wasteless",
-    "logo_img": "/images/wasteless-logo.svg",
+    "logo_img": "/images/wasteless-logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
