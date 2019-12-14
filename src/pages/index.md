@@ -2,7 +2,7 @@
 title: Home
 sections:
   - actions:
-      - label: Learn More
+      - label: I'm in!
         url: /features
     component: HeroBlock
     content: Join the movement and let's make history
