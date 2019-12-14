@@ -14,7 +14,7 @@ sections:
     component: FeaturesBlock
     featureslist:
       - actions:
-          - label: Learn More
+          - label: Show me more
             url: /features
         content: >-
           The side-stream you're currently paying to dispose of might be full of
@@ -22,7 +22,7 @@ sections:
         image: /images/nature.svg
         title: Turning Waste into Opportunities
       - actions:
-          - label: Learn More
+          - label: Find out how
             url: /features
         content: >-
           Wasteless is here to streamline your workflow and make everything run
@@ -30,7 +30,7 @@ sections:
         image: /images/priority.svg
         title: Prioritise on what's truly important
       - actions:
-          - label: Learn More
+          - label: Sounds interesting
             url: /features
         content: >-
           Making important decision with an impact on economy and ecology has
