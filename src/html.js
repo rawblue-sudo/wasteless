@@ -5,11 +5,6 @@ export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
-        <meta charset="UTF-8">
-        <meta name="description" content="Wasteless is closing the loop for you">
-        <meta name="keywords" content="Upcycling, Circular economy, ">
-        <meta name="author" content="J. Meissner">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
